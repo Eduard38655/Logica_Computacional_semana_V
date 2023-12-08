@@ -1,0 +1,110 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+147
+"Nota: En el codigo habra una serie de preguntas que deben ser contestadas con Si o No." , " Tambien tendras que poner comillas al ingresar datos."
+6
+2
+7
+entrada
+2
+""
+2
+si
+4
+"si"
+4
+1
+50
+"Te dire como puedes crear una taza de chocolate."
+4
+1
+49
+"Confirma si tienes los siguientes ingredientes."
+4
+1
+253
+"1 Taza de leche (puede ser leche regular o leche de almendra.) 
+
+
+
+2 Cucharadas de cacao en polvo sin azucar. 
+
+
+
+2 Cucharadas de azucar. 
+
+
+
+1/4 de cucharadita de esencia de vainilla. 
+
+
+
+Una pizca de sal. 
+
+
+
+Opcionales: crema batida o malvaviscos." 
+5
+1
+7
+entrada
+7
+0
+1
+12
+entrada="si"
+4
+1
+41
+"Vuelve cuando tengas lo que se te pide."
+13
+4
+1
+51
+"Perfecto Tienes los ingredientes. puedes avanzar."
+4
+1
+82
+"Confirma si tienes los siguientes instrumentos para hacer una taza de chocolate."
+4
+1
+565
+"Cacerola: Para calentar la leche. Asegurate de que sea lo suficientemente grande para contener la leche sin que se derrame al calentarla. 
+
+
+
+Taza: Donde prepararas y disfrutaras tu chocolate caliente. 
+
+
+
+Cuchara de medir: Para medir con precision los ingredientes. 
+
+
+
+Batidor o cuchara: Para mezclar los ingredientes secos con la leche y asegurarte de que esten bien combinados. 
+
+
+
+Olla o hervidor de agua (opcional): Si prefieres calentar la leche de manera mas rapida. puedes usar un hervidor de agua para calentarla y luego agregarla a la mezcla de cacao. "
+5
+1
+7
+entrada
+7
+0
+1
+12
+entrada="si"
+4
+1
+41
+"Vuelve cuando tengas lo que se te pide."
+
+"Final de este codigo"
+1

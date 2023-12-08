@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+"Diagrama para multilicar tres numeros."
+6
+3
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+num3
+1
+0
+4
+1
+40
+"Ingresa tres numeros para multiplicar."
+5
+1
+16
+num1, num2, num3
+4
+1
+33
+"Resultado es : ", num1*num2*num3
+1
